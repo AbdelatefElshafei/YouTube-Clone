@@ -56,7 +56,7 @@ This is a YouTube clone built using Ruby on Rails. The application mimics the co
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/youtube-clone-rails.git
+   git clone https://github.com/AbdelatefElshafei/YouTube-Clone.git
    cd youtube-clone-rails
    ```
 
