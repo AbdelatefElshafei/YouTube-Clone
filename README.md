@@ -1,5 +1,5 @@
 # YouTube Clone using Ruby on Rails
-![image](https://github.com/user-attachments/assets/f4f8a613-e7da-4c26-b053-e5746c088c39)
+![Untitled design](https://github.com/user-attachments/assets/bb886e77-7d04-464e-b03e-b65321a8c44d)
 
 This is a YouTube clone built using Ruby on Rails. The application mimics the core functionality of YouTube, including video uploads, playback, user authentication, and a responsive video grid layout. The project is designed to demonstrate how to build a modern web application with Rails, Active Storage, and responsive design.
 
